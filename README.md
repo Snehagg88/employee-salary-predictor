@@ -164,36 +164,35 @@ streamlit run app.py
 ![Architecture Diagram](assets/architecture.png)
 
 ---
-
 # 📷 Application Screenshots
 
 ## 🏠 Home Dashboard
 
-![Home Dashboard](screenshots/home.png)
+![Home Dashboard](assets/screenshots/home.png)
 
 ---
 
 ## 🔍 Single Salary Prediction
 
-![Single Prediction](screenshots/single_prediction.png)
+![Single Prediction](assets/screenshots/single_prediction.png)
 
 ---
 
 ## 📁 Batch Prediction
 
-![Batch Prediction](screenshots/batch_prediction.png)
+![Batch Prediction](assets/screenshots/batch_prediction.png)
 
 ---
 
 ## 📊 Prediction History
 
-![Prediction History](screenshots/history.png)
+![Prediction History](assets/screenshots/history.png)
 
 ---
 
 ## ℹ️ About Page
 
-![About Page](screenshots/about.png)
+![About Page](assets/screenshots/about.png)
 
 ---
 
